@@ -1,9 +1,19 @@
 {
-  "schema": "fieldwork/project/2",
-  "id": "",
-  "name": "",
-  "subject": "",
-  "workflows": [],
-  "authors": [],
-  "createdAt": ""
+ "schema": "fieldwork/project/2",
+ "id": "project-test-collaboration",
+ "name": "project-test-collaboration",
+ "subject": "",
+ "workflows": [
+  "project-test-collaboration-first-question"
+ ],
+ "createdAt": "2026-11-19T15:50:06.801Z",
+ "changedAt": "2026-11-19T18:11:11.274Z",
+ "authors": [
+  {
+   "login": "hermantolentino",
+   "name": "Herman Tolentino",
+   "basis": "attested",
+   "at": "2026-11-19T15:39:01.421Z"
+  }
+ ]
 }
