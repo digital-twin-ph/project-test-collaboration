@@ -6,14 +6,33 @@
  "workflows": [
   "project-test-collaboration-first-question"
  ],
- "createdAt": "2026-11-19T15:50:06.801Z",
- "changedAt": "2026-11-19T18:11:11.274Z",
+ "createdAt": "2026-11-17T02:13:55.687Z",
+ "changedAt": "2026-11-25T14:49:58.297Z",
  "authors": [
   {
    "login": "hermantolentino",
    "name": "Herman Tolentino",
    "basis": "attested",
-   "at": "2026-11-19T15:39:01.421Z"
+   "at": "2026-11-17T01:40:40.198Z"
+  }
+ ],
+ "members": [
+  {
+   "login": "hermantolentino",
+   "role": "lead-author",
+   "since": "2026-11-25T14:50:45.994Z",
+   "name": "Herman Tolentino MD",
+   "orcid": "0000-0002-8577-3744",
+   "sealKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9wflCV8aAqiH2Y1zR98FUwxNJA2cATHHVpiOuMi9ljaCmzMp8cufZi8vvfZKn1SWBW2N6EYrRUouVdroIZLUUA==",
+   "affiliations": [
+    {
+     "name": "Centers for Disease Control and Prevention",
+     "ror": "042twtr12"
+    }
+   ],
+   "publicKey": "MCowBQYDK2VwAyEAIeq6Nlo46kVZ8sOOI9vMjvnjPPrsPYXfNZA9tyKwMFk=",
+   "algorithm": "Ed25519",
+   "signature": "i/9hb92bx8Mvkcc6+IEM0u244281iX9WlCTCIrRpQzeqKfPhfFSYYAFx4tShBveJMRLRC90GlNdj2my7S2JUAQ=="
   }
  ]
 }
